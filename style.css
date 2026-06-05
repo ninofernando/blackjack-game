@@ -35,4 +35,5 @@ button {
     font-weight: bold;
     margin: 10px auto;
     font-size: 1.3em;
+    cursor: pointer;
 }
